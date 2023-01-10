@@ -16,4 +16,5 @@ __*Este roteiro é voltado para iniciantes que desejam ingressar na área de pro
 - Lógica Condicional e Controle de Fluxos em Java: [acesse o curso por este link](https://web.dio.me/course/logica-condicional-e-controle-de-fluxos-em-java/learning/b5616a08-8f2f-4da0-bf9c-0fe384be2b42?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined)
 
 Meta de Janeiro: 
-- [x] Parte 1
+- [ ] Parte 1
+- [ ] Parte 2
