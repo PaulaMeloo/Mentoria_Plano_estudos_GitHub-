@@ -18,3 +18,5 @@ __*Este roteiro é voltado para iniciantes que desejam ingressar na área de pro
 Meta de Janeiro: 
 - [ ] Parte 1
 - [ ] Parte 2
+
+~ textoriscado~
