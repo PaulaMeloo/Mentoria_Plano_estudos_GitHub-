@@ -19,4 +19,5 @@ Meta de Janeiro:
 - [ ] Parte 1
 - [ ] Parte 2
 
-~ textoriscado~
+~texto riscado~ :octocat:
+
